@@ -374,7 +374,7 @@ ul { list-style: none; }
   padding: 5px 14px; border-radius: var(--radius-full);
   font-size: .74rem; font-weight: 800; letter-spacing: .8px; text-transform: uppercase;
 }
-.card-badge-tag.kpr { background: var(--clr-teal-600); color: var(--clr-white); }
+.card-badge-tag.subsidi { background: var(--clr-teal-600); color: var(--clr-white); }
 .card-badge-tag.komersil { background: linear-gradient(90deg, var(--clr-green-600), var(--clr-teal-600)); color: var(--clr-white); }
 
 .card-image-wrap { position: relative; height: 240px; overflow: hidden; }
